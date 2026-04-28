@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=320&section=header&text=Lucas%20Kronemberger&fontSize=55&bgGradient=1e40af,f97316&fontColor=white&desc=Automation%20Intern%20%40%20HMSWEB%20%7C%20ADS%20Student%20%40%20Ibmec&descSize=18&descAlignV=200&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=380&section=header&text=Lucas%20Kronemberger&fontSize=48&bgGradient=1e40af,f97316&fontColor=white&desc=Automation%20Intern%20%40%20HMSWEB%20%7C%20ADS%20Student%20%40%20Ibmec&descSize=18&descAlignV=98&animation=fadeIn" />
 </p>
 
 ## 🚀 Sobre Mim
