@@ -2,11 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Lucas%20Kronemberger&fontSize=70&bgGradient=1e40af,f97316&fontColor=white&desc=Automation%20Intern%20%40%20HMSWEB%20%7C%20ADS%20Student%20%40%20Ibmec&descSize=25&descAlignV=80&animation=fadeIn" />
 </p>
 
-## [cite_start]🚀 Sobre Mim [cite: 1]
+## 🚀 Sobre Mim
 
-* [cite_start]**Automação & Eficiência:** Atuando como estagiário na **HMSWEB** [cite: 7] [cite_start]com foco em integrações de sistemas via APIs REST e Webhooks[cite: 12, 16].
-* [cite_start]**Processos Inteligentes:** Focado na criação de fluxos automatizados para redução de tarefas manuais e aumento da eficiência operacional[cite: 4, 10].
-* [cite_start]**Formação:** Graduando em Análise e Desenvolvimento de Sistemas pelo **Ibmec-RJ**[cite: 45, 47].
+* **Automação & Eficiência:** Atuando como estagiário na **HMSWEB** com foco em integrações de sistemas via APIs REST e Webhooks.
+* **Processos Inteligentes:** Focado na criação de fluxos automatizados para redução de tarefas manuais e aumento da eficiência operacional.
+* **Formação:** Graduando em Análise e Desenvolvimento de Sistemas pelo **Ibmec-RJ**.
 
 ## 🛠 Tecnologias e Ferramentas
 
